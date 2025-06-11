@@ -1,5 +1,4 @@
-<h1>**A FULLY FUNCTIONAL WORKING WEBSITE MADE BY TEAM MANIAC
-**</h1>
+
 
 WEBSITE LINK - https://mentalhealthchatbot-o6bn.vercel.app/index.html
 
